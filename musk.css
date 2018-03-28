@@ -1,0 +1,28 @@
+h1{
+	color: red;
+	text-decoration: underline;
+	text-align: center;
+}
+h3{
+	text-decoration: underline;
+	text-align: center;
+}
+p{
+	color:blue;
+}
+.leftbox{
+	align-items: left;		
+}
+.rightbox
+{
+	text-align: right;
+}
+.centerbox{
+	text-align: center;
+}
+ul{color:blue;}
+ol{color:red;}
+nav{
+
+	text-align: right;
+}
