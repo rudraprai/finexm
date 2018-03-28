@@ -11,11 +11,15 @@ p{
 	color:blue;
 }
 .leftbox{
-	align-items: left;		
+	position:absolute;
+	left:0px;
+	right:200px;
 }
 .rightbox
 {
-	text-align: right;
+	position:absolute;
+	left:200px;
+	right:0px;
 }
 .centerbox{
 	text-align: center;
